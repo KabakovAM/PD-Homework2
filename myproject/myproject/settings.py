@@ -37,7 +37,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'Ex001',
+    'Ex001','Ex008',
 ]
 
 MIDDLEWARE = [
